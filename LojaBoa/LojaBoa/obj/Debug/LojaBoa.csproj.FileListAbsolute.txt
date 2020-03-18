@@ -1,0 +1,152 @@
+D:\15 03 2020\LojaBoa\LojaBoa\bin\LojaBoa.dll.config
+D:\15 03 2020\LojaBoa\LojaBoa\bin\LojaBoa.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\LojaBoa.pdb
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\csc.exe
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\csc.exe.config
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\csc.rsp
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\csi.exe
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\csi.exe.config
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\csi.rsp
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\Microsoft.Managed.Core.targets
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.AppContext.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.Collections.Immutable.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.Console.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.IO.Compression.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.IO.FileSystem.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.IO.Pipes.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.Reflection.Metadata.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.Security.AccessControl.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.Security.Claims.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.Security.Principal.Windows.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.ValueTuple.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.Xml.XmlDocument.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.Xml.XPath.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\vbc.exe
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\vbc.exe.config
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\vbc.rsp
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\VBCSCompiler.exe
+D:\15 03 2020\LojaBoa\LojaBoa\bin\roslyn\VBCSCompiler.exe.config
+D:\15 03 2020\LojaBoa\LojaBoa\bin\Antlr3.Runtime.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\Microsoft.Web.Infrastructure.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\Newtonsoft.Json.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\System.Web.Helpers.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\System.Web.Mvc.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\System.Web.Optimization.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\System.Web.Razor.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\System.Web.WebPages.Deployment.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\System.Web.WebPages.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\System.Web.WebPages.Razor.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\WebGrease.dll
+D:\15 03 2020\LojaBoa\LojaBoa\bin\System.Web.Helpers.xml
+D:\15 03 2020\LojaBoa\LojaBoa\bin\System.Web.Mvc.xml
+D:\15 03 2020\LojaBoa\LojaBoa\bin\System.Web.Optimization.xml
+D:\15 03 2020\LojaBoa\LojaBoa\bin\System.Web.Razor.xml
+D:\15 03 2020\LojaBoa\LojaBoa\bin\System.Web.WebPages.xml
+D:\15 03 2020\LojaBoa\LojaBoa\bin\System.Web.WebPages.Deployment.xml
+D:\15 03 2020\LojaBoa\LojaBoa\bin\System.Web.WebPages.Razor.xml
+D:\15 03 2020\LojaBoa\LojaBoa\bin\Newtonsoft.Json.xml
+D:\15 03 2020\LojaBoa\LojaBoa\bin\Antlr3.Runtime.pdb
+D:\15 03 2020\LojaBoa\LojaBoa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\15 03 2020\LojaBoa\LojaBoa\obj\Debug\LojaBoa.csprojAssemblyReference.cache
+D:\15 03 2020\LojaBoa\LojaBoa\obj\Debug\LojaBoa.csproj.CoreCompileInputs.cache
+D:\15 03 2020\LojaBoa\LojaBoa\obj\Debug\LojaBoa.csproj.CopyComplete
+D:\15 03 2020\LojaBoa\LojaBoa\obj\Debug\LojaBoa.dll
+D:\15 03 2020\LojaBoa\LojaBoa\obj\Debug\LojaBoa.pdb
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\LojaBoa.dll.config
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\LojaBoa.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\LojaBoa.pdb
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\csc.exe
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\csc.exe.config
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\csc.rsp
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\csi.exe
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\csi.exe.config
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\csi.rsp
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.AppContext.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.Console.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.IO.Compression.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.IO.FileSystem.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.IO.Pipes.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.Security.AccessControl.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.Security.Claims.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.ValueTuple.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.Xml.XPath.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\vbc.exe
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\vbc.exe.config
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\vbc.rsp
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\VBCSCompiler.exe
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\Antlr3.Runtime.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\Newtonsoft.Json.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\System.Web.Helpers.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\System.Web.Mvc.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\System.Web.Optimization.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\System.Web.Razor.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\System.Web.WebPages.Deployment.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\System.Web.WebPages.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\System.Web.WebPages.Razor.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\WebGrease.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\System.Web.Helpers.xml
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\System.Web.Mvc.xml
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\System.Web.Optimization.xml
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\System.Web.Razor.xml
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\System.Web.WebPages.xml
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\System.Web.WebPages.Deployment.xml
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\System.Web.WebPages.Razor.xml
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\Newtonsoft.Json.xml
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\Antlr3.Runtime.pdb
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\obj\Debug\LojaBoa.csprojAssemblyReference.cache
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\obj\Debug\LojaBoa.csproj.CoreCompileInputs.cache
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\obj\Debug\LojaBoa.csproj.CopyComplete
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\obj\Debug\LojaBoa.dll
+D:\ASP NET  MVC EXERCICIOS\LojaBoa\LojaBoa\obj\Debug\LojaBoa.pdb
